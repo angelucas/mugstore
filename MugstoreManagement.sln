@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MugstoreManagement.Server", "MugstoreManagement\Server\MugstoreManagement.Server.csproj", "{973785B0-48FF-4FB0-9B41-930F060496D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MugstoreManagement.Client", "MugstoreManagement\Client\MugstoreManagement.Client.csproj", "{4C35C498-E2DA-49F4-98B4-0AC2339BBD6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MugstoreManagement.Shared", "MugstoreManagement\Shared\MugstoreManagement.Shared.csproj", "{A64F403E-1702-4A22-87B3-DC651F2D60A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{973785B0-48FF-4FB0-9B41-930F060496D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973785B0-48FF-4FB0-9B41-930F060496D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973785B0-48FF-4FB0-9B41-930F060496D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973785B0-48FF-4FB0-9B41-930F060496D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C35C498-E2DA-49F4-98B4-0AC2339BBD6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C35C498-E2DA-49F4-98B4-0AC2339BBD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C35C498-E2DA-49F4-98B4-0AC2339BBD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C35C498-E2DA-49F4-98B4-0AC2339BBD6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A64F403E-1702-4A22-87B3-DC651F2D60A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64F403E-1702-4A22-87B3-DC651F2D60A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64F403E-1702-4A22-87B3-DC651F2D60A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64F403E-1702-4A22-87B3-DC651F2D60A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66F503B8-2F30-4864-B290-817CBC7D7B19}
+	EndGlobalSection
+EndGlobal
