@@ -1,0 +1,248 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lucas.angelo\\Documents\\SENAC Lucas Angelo\\projetos\\mugstore\\Server\\MugstoreManagement.Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lucas.angelo\\Documents\\SENAC Lucas Angelo\\projetos\\mugstore\\Client\\MugstoreManagement.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucas.angelo\\Documents\\SENAC Lucas Angelo\\projetos\\mugstore\\Client\\MugstoreManagement.Client.csproj",
+        "projectName": "MugstoreManagement.Client",
+        "projectPath": "C:\\Users\\lucas.angelo\\Documents\\SENAC Lucas Angelo\\projetos\\mugstore\\Client\\MugstoreManagement.Client.csproj",
+        "packagesPath": "C:\\Users\\lucas.angelo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas.angelo\\Documents\\SENAC Lucas Angelo\\projetos\\mugstore\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lucas.angelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\lucas.angelo\\Documents\\SENAC Lucas Angelo\\projetos\\mugstore\\Shared\\MugstoreManagement.Shared.csproj": {
+                "projectPath": "C:\\Users\\lucas.angelo\\Documents\\SENAC Lucas Angelo\\projetos\\mugstore\\Shared\\MugstoreManagement.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Authentication": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
+              "version": "[5.0.5, 5.0.5]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\lucas.angelo\\Documents\\SENAC Lucas Angelo\\projetos\\mugstore\\Server\\MugstoreManagement.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucas.angelo\\Documents\\SENAC Lucas Angelo\\projetos\\mugstore\\Server\\MugstoreManagement.Server.csproj",
+        "projectName": "MugstoreManagement.Server",
+        "projectPath": "C:\\Users\\lucas.angelo\\Documents\\SENAC Lucas Angelo\\projetos\\mugstore\\Server\\MugstoreManagement.Server.csproj",
+        "packagesPath": "C:\\Users\\lucas.angelo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas.angelo\\Documents\\SENAC Lucas Angelo\\projetos\\mugstore\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lucas.angelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\lucas.angelo\\Documents\\SENAC Lucas Angelo\\projetos\\mugstore\\Client\\MugstoreManagement.Client.csproj": {
+                "projectPath": "C:\\Users\\lucas.angelo\\Documents\\SENAC Lucas Angelo\\projetos\\mugstore\\Client\\MugstoreManagement.Client.csproj"
+              },
+              "C:\\Users\\lucas.angelo\\Documents\\SENAC Lucas Angelo\\projetos\\mugstore\\Shared\\MugstoreManagement.Shared.csproj": {
+                "projectPath": "C:\\Users\\lucas.angelo\\Documents\\SENAC Lucas Angelo\\projetos\\mugstore\\Shared\\MugstoreManagement.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.ApiAuthorization.IdentityServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lucas.angelo\\Documents\\SENAC Lucas Angelo\\projetos\\mugstore\\Shared\\MugstoreManagement.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucas.angelo\\Documents\\SENAC Lucas Angelo\\projetos\\mugstore\\Shared\\MugstoreManagement.Shared.csproj",
+        "projectName": "MugstoreManagement.Shared",
+        "projectPath": "C:\\Users\\lucas.angelo\\Documents\\SENAC Lucas Angelo\\projetos\\mugstore\\Shared\\MugstoreManagement.Shared.csproj",
+        "packagesPath": "C:\\Users\\lucas.angelo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas.angelo\\Documents\\SENAC Lucas Angelo\\projetos\\mugstore\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lucas.angelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

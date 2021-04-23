@@ -1,0 +1,12 @@
+C:\Users\lucas.angelo\Documents\SENAC Lucas Angelo\projetos\mugstore\Shared\bin\Debug\net5.0\MugstoreManagement.Shared.deps.json
+C:\Users\lucas.angelo\Documents\SENAC Lucas Angelo\projetos\mugstore\Shared\bin\Debug\net5.0\MugstoreManagement.Shared.dll
+C:\Users\lucas.angelo\Documents\SENAC Lucas Angelo\projetos\mugstore\Shared\bin\Debug\net5.0\ref\MugstoreManagement.Shared.dll
+C:\Users\lucas.angelo\Documents\SENAC Lucas Angelo\projetos\mugstore\Shared\bin\Debug\net5.0\MugstoreManagement.Shared.pdb
+C:\Users\lucas.angelo\Documents\SENAC Lucas Angelo\projetos\mugstore\Shared\obj\Debug\net5.0\MugstoreManagement.Shared.csprojAssemblyReference.cache
+C:\Users\lucas.angelo\Documents\SENAC Lucas Angelo\projetos\mugstore\Shared\obj\Debug\net5.0\MugstoreManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.angelo\Documents\SENAC Lucas Angelo\projetos\mugstore\Shared\obj\Debug\net5.0\MugstoreManagement.Shared.AssemblyInfoInputs.cache
+C:\Users\lucas.angelo\Documents\SENAC Lucas Angelo\projetos\mugstore\Shared\obj\Debug\net5.0\MugstoreManagement.Shared.AssemblyInfo.cs
+C:\Users\lucas.angelo\Documents\SENAC Lucas Angelo\projetos\mugstore\Shared\obj\Debug\net5.0\MugstoreManagement.Shared.csproj.CoreCompileInputs.cache
+C:\Users\lucas.angelo\Documents\SENAC Lucas Angelo\projetos\mugstore\Shared\obj\Debug\net5.0\MugstoreManagement.Shared.dll
+C:\Users\lucas.angelo\Documents\SENAC Lucas Angelo\projetos\mugstore\Shared\obj\Debug\net5.0\ref\MugstoreManagement.Shared.dll
+C:\Users\lucas.angelo\Documents\SENAC Lucas Angelo\projetos\mugstore\Shared\obj\Debug\net5.0\MugstoreManagement.Shared.pdb
